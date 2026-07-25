@@ -1,0 +1,148 @@
+# System Monitor (Liquid Glass) - Translation Template
+# Translators:
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.systemmonitor.liquidglass "
+"1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/jaxparrow07/macos-widgets/issues\n"
+"POT-Creation-Date: 2026-06-21 15:21+0300\n"
+"PO-Revision-Date: 2026-06-21 15:21+0300\n"
+"Last-Translator: Russian translation contributors\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: packages/systemmonitor/contents/config/config.qml:9
+msgid "Glass Style"
+msgstr "Стиль стекла"
+
+#: packages/systemmonitor/contents/config/config.qml:14
+msgid "Appearance"
+msgstr "Оформление"
+
+#: packages/systemmonitor/contents/config/config.qml:19
+msgid "%1 Details"
+msgstr "Сведения: %1"
+
+#: packages/systemmonitor/contents/config/config.qml:25
+msgid "Sensors Details"
+msgstr "Сведения о датчиках"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:55
+msgid "Applied!"
+msgstr "Применено!"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:57
+msgid "Invalid config string"
+msgstr "Недопустимая строка конфигурации"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:73
+msgid "Preset:"
+msgstr "Предустановка:"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:78
+msgid "Copy style"
+msgstr "Копировать стиль"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:83
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:91
+msgid "Paste style"
+msgstr "Вставить стиль"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:118
+msgid "Style:"
+msgstr "Стиль:"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:119
+msgid "Glass"
+msgstr "Стекло"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:119
+msgid "Solid"
+msgstr "Сплошной"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:124
+msgid "Appearance:"
+msgstr "Оформление:"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:125
+msgid "Dark"
+msgstr "Тёмное"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:125
+msgid "Light"
+msgstr "Светлое"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:125
+msgid "Follow system"
+msgstr "Как в системе"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:130
+msgid "Corner radius (px):"
+msgstr "Радиус углов (пикс.):"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:136
+msgid "Roundness (×10, 2.0..10.0):"
+msgstr "Скруглённость (×10, 2,0…10,0):"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:148
+msgid "Glass effect"
+msgstr "Эффект стекла"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:153
+msgid "Refraction thickness (px):"
+msgstr "Толщина преломления (пикс.):"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:159
+msgid "Index of refraction (×100):"
+msgstr "Показатель преломления (×100):"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:165
+msgid "Refraction strength:"
+msgstr "Сила преломления:"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:171
+msgid "Tint alpha (%):"
+msgstr "Прозрачность оттенка (%):"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:177
+msgid "Chromatic aberration (%):"
+msgstr "Хроматическая аберрация (%):"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:183
+msgid "Specular strength (%):"
+msgstr "Интенсивность блика (%):"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:189
+msgid "Blur radius (px):"
+msgstr "Радиус размытия (пикс.):"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:195
+msgid "Realtime refraction:"
+msgstr "Преломление в реальном времени:"
+
+#: packages/systemmonitor/contents/ui/config/ConfigGlass.qml:196
+msgid "Recapture every frame (enable for video wallpapers)"
+msgstr "Обновлять каждый кадр (включите для видеообоев)"
+
+#: packages/systemmonitor/contents/ui/main.qml:49
+msgid "System Monitor"
+msgstr "Системный монитор"
+
+#: packages/systemmonitor/contents/ui/main.qml:50
+msgctxt "Sensor name: value"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: packages/systemmonitor/contents/ui/main.qml:78
+msgctxt "@action"
+msgid "Open System Monitor…"
+msgstr "Открыть системный монитор…"
