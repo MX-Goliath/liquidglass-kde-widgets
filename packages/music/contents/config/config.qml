@@ -8,8 +8,18 @@ ConfigModel {
         source: "config/ConfigAppearance.qml"
     }
     ConfigCategory {
+        name: i18n("Filter")
+        icon: "view-filter"
+        source: "config/ConfigFilter.qml"
+    }
+    ConfigCategory {
         name: i18n("Lyrics")
         icon: "preferences-desktop-font"
         source: "config/ConfigLyrics.qml"
+    }
+    ConfigCategory {
+        name: i18n("More & Support")
+        icon: "love"
+        source: "config/ConfigAbout.qml"
     }
 }
